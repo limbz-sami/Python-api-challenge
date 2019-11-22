@@ -1,5 +1,5 @@
 # What's the weather like as we approach the equator?
-To prove it gets hotter as we approach equator, I visualized weather of more than 500 cities across the world of varying distance from the euator. To accomplish I this, I utilized OpenWeatherMap API and created a representative model of weather across world cities. 
+To prove it gets hotter as we approach equator, I visualized weather of more than 500 cities across the world of varying distance from the equator. To accomplish I this, I utilized OpenWeatherMap API and created a representative model of weather across world cities. 
 
 # Method and Tools:
 500 unique cities were selected based on latitude and longitude. Performed weather check on each cities using series of API calls. Printed log of each API calls and added the data into a dataframe. The dataframe was inspected and plotted.
