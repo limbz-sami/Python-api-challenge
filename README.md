@@ -23,7 +23,7 @@ I used series of scatterplots to show relationship between:
 
 ![4-scatter](Figures/Latitude_vs_Cloudiness.png)
 
-# Website
+# Website:
 https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html
 
 ![4-scatter](Figures/website.PNG)
