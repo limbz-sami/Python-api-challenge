@@ -11,7 +11,7 @@ I used series of scatterplots to show relationship between:
 4) Wind Speed (mph) vs. Latitude
 
 # Observations:
-1) As expected latitude significantly impacted maximum temperature. The figure (latitude vs maxtemp) shows that the cities near equator have higher maximum temperature compared to the cities further away from equator.
+### 1) As expected latitude significantly impacted maximum temperature. The figure (latitude vs maxtemp) shows that the cities near equator have higher maximum temperature compared to the cities further away from equator.
 
 ![4-scatter](Figures/Latitude_vs_MaxTemp.png)
 
