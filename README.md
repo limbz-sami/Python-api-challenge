@@ -15,7 +15,7 @@ I used series of scatterplots to show relationship between:
 
 ![4-scatter](Figures/Latitude_vs_MaxTemp.png)
 
-2) On average, cities near equator seems to have higher humidity campared to cities away from equator. However, the pattern is not as clear as it is for maximum temperature. Significance of the data can be tested to verify the observation.
+### 2) On average, cities near equator seems to have higher humidity campared to cities away from equator. However, the pattern is not as clear as it is for maximum temperature. Significance of the data can be tested to verify the observation.
 
 ![4-scatter](Figures/Latitude_vs_Humidity.png)
 
