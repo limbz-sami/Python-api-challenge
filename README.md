@@ -26,6 +26,6 @@ I used series of scatterplots to show relationship between:
 # Website
 https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html
 
-![](Figures/website.PNG)
+![4-scatter](Figures/website.png)
 
 
