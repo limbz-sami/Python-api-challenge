@@ -19,7 +19,7 @@ I used series of scatterplots to show relationship between:
 
 ![4-scatter](Figures/Latitude_vs_Humidity.png)
 
-3) Latitude did not have impact on cloudiness % or wind_speed around the time the data was collected.
+### 3) Latitude did not have impact on cloudiness % or wind_speed around the time the data was collected.
 
 ![4-scatter](Figures/Latitude_vs_Cloudiness.png)
 
