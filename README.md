@@ -1,3 +1,8 @@
+# Live Website:
+https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html
+
+![4-scatter](Figures/website.PNG)
+
 # What's the weather like as we approach the equator?
 To prove it gets hotter as we approach equator, I visualized weather of more than 500 cities across the world of varying distance from the equator. To accomplish I this, I utilized OpenWeatherMap API and created a representative model of weather across world cities. 
 
@@ -29,9 +34,6 @@ Weatherpy consist of jupyter notebook and csv file. Data analysis was performed 
 
 ![4-scatter](Figures/Latitude_vs_Cloudiness.png)
 
-# Website:
-https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html
 
-![4-scatter](Figures/website.PNG)
 
 
