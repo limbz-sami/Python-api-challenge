@@ -1,5 +1,5 @@
 # Live Website:
-[Here](https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html)
+Find live website [Here](https://limbz-sami.github.io/Web-Design-Challenge.github.io/cloud.html)
 
 ![4-scatter](Figures/website.PNG)
 
